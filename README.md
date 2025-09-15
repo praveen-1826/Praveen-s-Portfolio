@@ -24,7 +24,7 @@ Hi! I'm Praveen, a passionate software developer specializing in building modern
 
 - HTML, CSS, JavaScript
 - React (or your chosen framework)
-- [List any other notable libraries or tools]
+
 
 ## 🏗️ Getting Started
 
